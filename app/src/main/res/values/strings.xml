@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PlayMe</string>
+    <string name="play">PLAY</string>
+    <string name="enter_a_url">Enter a URL</string>
+</resources>
